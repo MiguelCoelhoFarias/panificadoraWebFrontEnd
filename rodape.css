@@ -1,0 +1,34 @@
+footer{
+    margin-top: 10px;
+    background: #FBEDCD;
+    position: absolute;
+    bottom: -1830px;
+    width: 1950px;
+}
+footer h3 {
+    margin-top: 10px;
+    color: #4A1D1F;
+
+}
+footer ul {
+    list-style: none;
+    text-align: right;
+} 
+footer li{
+display: inline-block;
+margin: 30px;
+
+}
+footer img {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+hr {
+    border: 1px solid rgba(74, 29, 31, 0.22);
+}
+
+footer a {
+    text-decoration: none;
+    color: #272727;;
+}
